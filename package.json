@@ -1,0 +1,23 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "First api with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinaOM/express_api.git"
+  },
+  "author": "Paulina Otero @paulinaOM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinaOM/express_api/issues"
+  },
+  "homepage": "https://github.com/paulinaOM/express_api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1"
+  }
+}
